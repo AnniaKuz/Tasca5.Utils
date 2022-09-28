@@ -1,0 +1,7 @@
+AndAnotherDirectory - 1661181556691 - D
+Another directory - 1664254342123 - D
+Some text.txt - 1661183906115 - F
+Yes.ThisIsAnotherDir - 1664254342126 - D
+Hello.txt - 1661183864451 - F
+Hello, world!.txt - 1661181678644 - F
+Keep working.txt - 1661183888468 - F
